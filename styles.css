@@ -13,8 +13,8 @@ body {
 }
 
 .photo {
-    width: 800px; /* Adjust this width to fit your needs */
-    height: 1280px; /* Adjust this height to fit your needs */
+    width: 398.59px; /* Adjust this width to fit your needs */
+    height: 980px; /* Adjust this height to fit your needs */
 }
 
 .countdown {
@@ -26,6 +26,6 @@ body {
 }
 
 #startButton {
-    font-size: 1em;
+    font-size: 2em;
     margin-top: 10px;
 }
