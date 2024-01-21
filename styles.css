@@ -22,8 +22,6 @@ body {
 .countdown {
     font-size: 3em;
     bottom: 10px; /* Adjust this value to position the timer closer to the bottom */
-    left: 50%;
-    transform: translateX(-50%);
 }
 
 #startButton {
