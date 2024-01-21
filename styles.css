@@ -22,7 +22,7 @@ body {
 .countdown {
     font-size: 3em;
     position: absolute;
-    bottom: 50px; /* Adjust this value to position the timer closer to the bottom */
+    bottom: 10px; /* Adjust this value to position the timer closer to the bottom */
     left: 50%;
     transform: translateX(-50%);
 }
