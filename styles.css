@@ -22,14 +22,14 @@ body {
 .countdown {
     font-size: 3em;
     position: absolute;
-    bottom: 10px; /* Adjust this value to position the timer closer to the bottom */
+    bottom: 5px; /* Adjust this value to position the timer closer to the bottom */
     left: 50%;
     transform: translateX(-50%);
 }
 
 #startButton {
     font-size: 1em;
-    margin-top: 10px;
+    margin-top: 5px;
     cursor: pointer; /* Add this to change the cursor to a pointer on hover */
     transition: background-color 0.3s ease; /* Add a transition effect for smoother color change */
 }
