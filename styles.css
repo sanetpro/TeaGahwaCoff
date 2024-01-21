@@ -1,5 +1,6 @@
 body {
-    margin: 70;
+    margin: 0;
+    padding: 0; /* Add this to remove default padding */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,17 +16,18 @@ body {
 .photo {
     width: 398.59px; /* Adjust this width to fit your needs */
     height: 980px; /* Adjust this height to fit your needs */
+    object-fit: cover; /* Add this to make sure the entire image is visible */
 }
 
 .countdown {
     font-size: 3em;
     position: absolute;
-    bottom: 40px; /* Adjust this value to position the timer at the bottom */
+    bottom: 20px; /* Adjust this value to position the timer closer to the bottom */
     left: 50%;
     transform: translateX(-50%);
 }
 
 #startButton {
     font-size: 1em;
-    margin-top: 70px;
+    margin-top: 10px;
 }
