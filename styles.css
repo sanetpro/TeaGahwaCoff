@@ -14,8 +14,8 @@ body {
 }
 
 .photo {
-    width: 398.59px; /* Adjust this width to fit your needs */
-    height: 570px; /* Adjust this height to fit your needs */
+    width: 797.18 px; /* Adjust this width to fit your needs */
+    height: 1140px; /* Adjust this height to fit your needs */
     object-fit: cover; /* Add this to make sure the entire image is visible */
 }
 
